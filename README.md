@@ -5,7 +5,7 @@ Dumps the Ethereum address and private key from a Parity-specific mnemonic.
 Initial steps -
 
 - clone repo
-- `yarn install` to sinatll dependencies
+- `yarn install` to install dependencies
 
 Then to run execute -
 
